@@ -1,7 +1,16 @@
+#Aplicacion Listado Usuarios con Flutter
 
+Reconstruir modulos de node(instalar todo esto en el backend)
+```
+npm init -y
+npm install express mongoose morgan cors faker
+```
 
-#Aplicacion en Flutter
+Levantar el servidor 
+```
+node src/index.js
+```
 
-1-Reconstruir modulos de node = npm init -y
-2-Instalar modulos = npm install express mongoose morgan cors faker 
-3-Corrrer programa node src/index.js
+```
+Correr aplicacion en Flutter con Android Studio o Visual Studio Code
+```
